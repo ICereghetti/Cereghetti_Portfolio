@@ -7,3 +7,4 @@ PDF schedues were having some issues to display the event's information. This is
 * Solved minor fixes to display times properly
 * Added parameter to change each day's schedues
 
+[](https://github.com/ICereghetti/Cereghetti_Portfolio/blob/main/images/resolutions_tableau_sample.png?raw=true)
