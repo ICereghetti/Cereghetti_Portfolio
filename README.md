@@ -10,7 +10,7 @@ Personal Upwork Job Tracking and Notification system to help me stay ahead of th
 * Python
 * Google Platform (Cloud Functions, Cloud Storage, Bigquery, Looker Studio)
 
-![](https://github.com/ICereghetti/Cereghetti_Portfolio/blob/main/images/project_2.png?raw=true)
+![](https://github.com/ICereghetti/Cereghetti_Portfolio/blob/main/images/upwork.png?raw=true)
 
 ## [Protect 2: Festival Schedue in Tableau](https://public.tableau.com/app/profile/ivan.cereghetti/viz/SampleSchedue/dash?publish=yes)
 
