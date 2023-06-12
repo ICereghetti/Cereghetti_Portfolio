@@ -6,9 +6,9 @@ Data Science / Data Analyst portfolio
 This project involves freelance investigation work for a client who needed assistance in designing a comprehensive SQL database from scratch for their Funeral Homes website. The goal was to create a robust database that could be queried in multiple ways to gain different perspectives on the data. Additionally, the database needed to be flexible enough to accommodate future additions of new data.
 
 ### Highlights
-#### A) Scrape Funeral Directors of New Zealand with Selenium (https://funeraldirectors.co.nz)
-#### B) Scrape Relevant Information from Each Business's Website
-#### C) Design the Database using the Gathered Information
+A) Scrape Funeral Directors of New Zealand with Selenium (https://funeraldirectors.co.nz)
+B) Scrape Relevant Information from Each Business's Website
+C) Design the Database using the Gathered Information
 
 
 ### Deliverables
