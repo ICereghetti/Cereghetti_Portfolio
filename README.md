@@ -17,7 +17,7 @@ Freelance Investigation work for a client that needed to understand how to desig
 
 * Python Code to scrape and format text data from Funeral Homes Websites using OpenAI
 * Json File with samples of the data scraped from websites
-* Database Schema Document with the main structure I recommend ex-post understanding the scraped information.
+* Database Schema Document with the main structure I recommend ex-post our findings.
 
 
 
