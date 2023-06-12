@@ -5,12 +5,6 @@ Data Science / Data Analyst portfolio
 
 This project involves freelance investigation work for a client who needed assistance in designing a comprehensive SQL database from scratch for their Funeral Homes website. The goal was to create a robust database that could be queried in multiple ways to gain different perspectives on the data. Additionally, the database needed to be flexible enough to accommodate future additions of new data.
 
-### Tools Used
-
-1) Python (Selenium, OpenAI, BeautifulSoup, urllib, time)
-2) SQL (BigQuery)
-3) Google Docs
-
 ### Deliverables
 
 * [New Zealand's Funeral Homes Database](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/funeral_homes_database.csv)
@@ -18,6 +12,13 @@ This project involves freelance investigation work for a client who needed assis
 * [JSON File with Samples of the Data Scraped from Websites](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/samples.json)
 * [Database Schema Document with the Recommended Main Structure](https://docs.google.com/spreadsheets/d/1YKqOfKtCx-Bx4KtMh7m7fcoXkl7wU3KPQ9LuyQzWJus/edit#gid=954638511)
 
+### Tools Used
+
+1) Python (Selenium, OpenAI, BeautifulSoup, urllib, time)
+2) SQL (BigQuery)
+3) Google Docs
+
+![](https://github.com/ICereghetti/Cereghetti_Portfolio/blob/27f2f9b2d88ac78119a6e8f37f4d1b40b93635ab/images/project_funeral_homes_2.png)
 
 ## [Protect 2: Upwork Job Tracker + Mail Alarm + Skill Monitor Dashboard](https://github.com/ICereghetti/project_upwork.git)
 
