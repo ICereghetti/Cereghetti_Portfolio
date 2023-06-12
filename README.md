@@ -1,24 +1,22 @@
 # Cereghetti_Portfolio
 Data Science / Data Analyst portfolio
 
-## [Protect 1: Scraping an Online Database with Selenium + Extracting information from each webiste + text to JSON structure with OpenAI (Chat GPT) + Database Design](https://github.com/ICereghetti/project_upwork.git)
+## [Protect 1: Scraping an Online Database with Selenium + Extracting information from each webiste + text to JSON structure with OpenAI (Chat GPT) + Database Design](https://github.com/ICereghetti/project_funeral_homes.git)
 
-Freelance Investigation work for a client that needed to understand how to design a complete SQL database for his website about Funeral Homes, to have a solid database that we can cut into different points of views flexbible enough to pivot in case we need to add new extra data.
+This project involves freelance investigation work for a client who needed assistance in designing a comprehensive SQL database from scratch for their Funeral Homes website. The goal was to create a robust database that could be queried in multiple ways to gain different perspectives on the data. Additionally, the database needed to be flexible enough to accommodate future additions of new data.
 
-### Main Python Packages used
+### Tools Used
 
-* Selenium
-* Open AI
-* Beautiful Soup
-* urllib
-* time
+1) Python (Selenium, OpenAI, BeautifulSoup, urllib, time)
+2) SQL (BigQuery)
+3) Google Docs
 
 ### Deliverables
 
-* Python Code to scrape and format text data from Funeral Homes Websites using OpenAI
-* Json File with samples of the data scraped from websites
-* Database Schema Document with the main structure I recommend ex-post our findings.
-
+* [New Zealand's Funeral Homes Database](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/funeral_homes_database.csv)
+* [Python Code for Scraping and Formatting Text Data from Funeral Homes Websites using OpenAI](https://github.com/ICereghetti/project_funeral_homes/blob/1556a93cb6b031ada01dad035458566a79eef8a2/scrape_website.py)
+* [JSON File with Samples of the Data Scraped from Websites](https://github.com/ICereghetti/project_funeral_homes/blob/b45ae90cea72fae99af1870f2f5ad925c75aeed4/samples.json)
+* [Database Schema Document with the Recommended Main Structure](https://docs.google.com/spreadsheets/d/1YKqOfKtCx-Bx4KtMh7m7fcoXkl7wU3KPQ9LuyQzWJus/edit#gid=954638511)
 
 
 ## [Protect 2: Upwork Job Tracker + Mail Alarm + Skill Monitor Dashboard](https://github.com/ICereghetti/project_upwork.git)
