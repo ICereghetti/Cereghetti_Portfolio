@@ -1,6 +1,7 @@
 # Data Science & Data Analyst Portfolio
 By Ivan Cereghetti
 
+
 ## [Protect 1: SQL Database Design using Website's Data Scraped with Selenium, BeautifulSoup, and ChatGPT](https://github.com/ICereghetti/project_funeral_homes.git)
 
 This project involves freelance investigation work for a client who needed assistance in designing a comprehensive SQL database from scratch for their Funeral Homes website. The goal was to create a robust database that could be queried in multiple ways to gain different perspectives on the data. Additionally, the database needed to be flexible enough to accommodate future additions of new data.
