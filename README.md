@@ -1,4 +1,5 @@
-# Ivan Cereghetti's Data Science & Data Analyst Portfolio
+# Data Science & Data Analyst Portfolio
+By Ivan Cereghetti
 
 ## [Protect 1: SQL Database Design using Website's Data Scraped with Selenium, BeautifulSoup, and ChatGPT](https://github.com/ICereghetti/project_funeral_homes.git)
 
