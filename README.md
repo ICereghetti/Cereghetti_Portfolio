@@ -1,5 +1,4 @@
-# Cereghetti_Portfolio
-Data Science / Data Analyst portfolio
+# Ivan Cereghetti's Data Science & Data Analyst Portfolio
 
 ## [Protect 1: SQL Database Design using Website's Data Scraped with Selenium, BeautifulSoup, and ChatGPT](https://github.com/ICereghetti/project_funeral_homes.git)
 
@@ -37,7 +36,33 @@ Personal Upwork Job Tracking and Notification system to help me stay ahead of th
 
 ![](https://github.com/ICereghetti/Cereghetti_Portfolio/blob/main/images/upwork.png?raw=true)
 
-## [Protect 3: Festival Schedue in Tableau](https://public.tableau.com/app/profile/ivan.cereghetti/viz/SampleSchedue/dash?publish=yes)
+
+## [Protect 3: Esports Team Performance Tracker: Twitter Bot and Wordcloud Generation & Analysis](https://github.com/ICereghetti/project_twitter_wordclouds.git)
+
+This personal project involves the creation of a Twitter Bot that analyzes the last 10 days of Tweets related to prominent Esports Teams (T1, FNATIC, Cloud9), selecting one team each day and generating a color-coded Wordcloud in the shape of the team's logo. By applying sentiment analysis using the team's colors, the Wordcloud provides a captivating visual representation of the team's performance. This project offers a dynamic and visually engaging solution for tracking the performance of top Esports Teams through automated analysis of Twitter data, making it valuable for marketing professionals seeking an automated and consistent method to generate quality content.
+
+### Highlights
+1) Create a list of teams to analyze their logo and create a Control Panel to change Wordcloud configurations
+2) Create the Wordcloud of the chosen team based on the control panel's configuration
+3) Upload and post the Wordcloud in the Twitter Bot Account using Twitter API
+
+
+### Deliverables
+
+* [Wordcloud's Control Panel](https://docs.google.com/spreadsheets/d/1MFIte9Rm4hXk713uXG4DOKKg2gwN8S_GJ-tqEwBi3tk/edit#gid=0): A Google Sheets document that acts as a control panel for changing Wordcloud configurations.
+* [A different Wordcloud once a Day](https://github.com/ICereghetti/project_twitter_wordclouds/tree/5baa21324a5e5e0bbfacbb93ea6ea2755713acb8/wordcloud_samples): A collection of Wordcloud images generated daily, each representing a different team's performance.
+* [Twitter Bot Code](https://github.com/ICereghetti/project_twitter_wordclouds/blob/5baa21324a5e5e0bbfacbb93ea6ea2755713acb8/code.py): The code used to create and update the Wordclouds and post them on Twitter.
+* [Twitter Bot Profile](https://twitter.com/EsportsNews_bot) (Deprecated temporarily after May-22, since Twitter changed their Terms and Conditions): The Twitter profile of the bot used to post the Wordclouds.
+
+### Tools Used
+
+1) Python (tweepy, WordCloud, BeautifulSoup, google.cloud, requests): Python libraries for data processing, web scraping, and generating Wordclouds.
+2) Google Cloud Platform (BigQuery, Cloud Functions, Scheduler, Google Docs, Storage): Google Cloud services used for data storage, scheduling tasks, and managing the control panel.
+3) Twitter: Twitter API is used to retrieve tweets, post Wordclouds, and manage the bot account.
+
+![Wordcloud Sample](https://github.com/ICereghetti/Cereghetti_Portfolio/blob/a61458d7ca0c47664b3a89a042f665cda465c7e2/images/project_twitter_wordcloud_3.png)
+
+## [Protect 4: Festival Schedue in Tableau](https://public.tableau.com/app/profile/ivan.cereghetti/viz/SampleSchedue/dash?publish=yes)
 
 PDF schedues were having some issues to display the event's information. This issue was solved by replacing these schedues by an interactive Tableau Dashboard:
 * Tooltip to show the artist/teacher name, genre/topic and personalized image.
@@ -46,7 +71,7 @@ PDF schedues were having some issues to display the event's information. This is
 
 ![](https://github.com/ICereghetti/Cereghetti_Portfolio/blob/main/images/resolutions_tableau_sample.png?raw=true)
 
-## [Protect 4: The Movie Database API + ML Model + Twitter Bot](https://github.com/ICereghetti/project2_tmdb.git)
+## [Protect 5: The Movie Database API + ML Model + Twitter Bot](https://github.com/ICereghetti/project2_tmdb.git)
 
 Develop a Machine Learning Model, using [The Movie Database API](https://www.themoviedb.org/) to recommend movies in a Twitter Bot once a week. The model will be trained to predict the average user rating a week after a movie is released. To predict this value, we will use cast, popularity, genre and budget.
 
