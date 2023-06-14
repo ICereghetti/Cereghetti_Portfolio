@@ -44,8 +44,8 @@ Personal Upwork Job Tracking and Notification system to help me stay ahead of th
 This personal project involves the creation of a Twitter Bot that analyzes the last 10 days of Tweets related to prominent Esports Teams (T1, FNATIC, Cloud9), selecting one team each day and generating a color-coded Wordcloud in the shape of the team's logo. By applying sentiment analysis using the team's colors, the Wordcloud provides a captivating visual representation of the team's performance. This project offers a dynamic and visually engaging solution for tracking the performance of top Esports Teams through automated analysis of Twitter data, making it valuable for marketing professionals seeking an automated and consistent method to generate quality content.
 
 ### Highlights
-1) Create a list of teams to analyze their logo and create a Control Panel to change Wordcloud configurations
-2) Create the Wordcloud of the chosen team based on the control panel's configuration
+1) List impotant Esport Teams, Logos and representative colors in a Control Panel to change Wordcloud configurations
+2) Once a Day, create a Wordcloud of one team based on the control panel's configuration
 3) Upload and post the Wordcloud in the Twitter Bot Account using Twitter API
 
 
